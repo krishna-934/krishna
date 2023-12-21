@@ -1,0 +1,388 @@
+[19:03.28.095]  Starting MobaXterm
+[19:03.28.095]  
+[19:03.28.095]  BEGIN AdaptToGlobalDPI
+[19:03.28.095]      AdaptToGlobalDPI: DPI=144
+[19:03.28.095]      BEGIN LaunchLoadFlatIconsThreads
+[19:03.28.095]          BEGIN WaitForLoadFlatIconsThreads
+[19:03.28.095]          END WaitForLoadFlatIconsThreads
+[19:03.28.095]          BEGIN WaitForGenerateStdListThreads
+[19:03.28.095]          END WaitForGenerateStdListThreads
+[19:03.28.095]          Loading flat icons 16
+[19:03.28.095]          Loading flat icons 22
+[19:03.28.095]          Loading flat icons 64
+[19:03.28.095]          Loading extensions icons
+[19:03.28.095]      END LaunchLoadFlatIconsThreads
+[19:03.28.096]      ImChecks <-- ImChecks16
+[19:03.28.101]  END AdaptToGlobalDPI
+[19:03.28.101]  
+[19:03.28.101]  BEGIN AddMobaConsoleFont
+[19:03.28.102]  END AddMobaConsoleFont
+[19:03.28.102]  
+[19:03.28.102]  
+[19:03.28.102]  BEGIN MobaProfileDir detection
+[19:03.28.102]      BEGIN GetProfileDirScore(C:\Users\krish\AppData\Roaming\)
+[19:03.28.103]          "C:\Users\krish\AppData\Roaming\" seems to be writeable
+[19:03.28.103]          "C:\Users\krish\AppData\Roaming\MobaXterm\MobaXterm.ini" already exists
+[19:03.28.103]          "C:\Users\krish\AppData\Roaming\" is not a network path
+[19:03.28.103]      END GetProfileDirScore(C:\Users\krish\AppData\Roaming\): 36
+[19:03.28.103]  END MobaProfileDir detection
+[19:03.28.103]  
+[19:03.28.103]  --> Selected MobaProfile directory: "C:\Users\krish\AppData\Roaming\"
+[19:03.28.103]  
+[19:03.28.104]  - MobaXterm version: 23.2 Build 5082
+[19:03.28.104]  - Command line: "C:\Users\krish\OneDrive\Documents\OneDrive\Desktop\MobaXterm_Portable_v23.2\MobaXterm_Personal_23.2.exe"
+[19:03.28.104]  - Date: 2023-10-13
+[19:03.28.104]  - Windows version number: 10.0.2.22621.
+[19:03.28.104]  - Windows version name: Windows 10
+[19:03.28.104]  - Windows full name: Windows 10 Home 2009 build 22621
+[19:03.28.104]  - Windows architecture: 64-bits
+[19:03.28.104]  - User language: English (United States)
+[19:03.28.104]  - CPU architecture: x86
+[19:03.28.104]  - Detected DPI: 144
+[19:03.28.104]  - User DPI: 144
+[19:03.28.104]  - CurDir: C:\Users\krish\OneDrive\DOCUME~1\OneDrive\Desktop\MOBAXT~1.2\
+[19:03.28.104]  - PersonalDir: C:\Users\krish\OneDrive\DOCUME~1\
+[19:03.28.104]  - AppDataDir: C:\Users\krish\AppData\Roaming\
+[19:03.28.104]  - LocalAppDataDir: C:\Users\krish\AppData\Local\
+[19:03.28.104]  - DesktopDir: C:\Users\krish\OneDrive\DOCUME~1\OneDrive\Desktop\
+[19:03.28.104]  - CustomProfileDir: 0
+[19:03.28.104]  - MobaProfileDir: C:\Users\krish\AppData\Roaming\
+[19:03.28.104]  - Free space in MobaProfileDir folder: 415822MB
+[19:03.28.104]  - TempDir: C:\Users\krish\AppData\Local\Temp\
+[19:03.28.105]  - Free space in TempDir folder: 415822MB
+[19:03.28.105]  - Monitor #0 LxTxWxH: 0x0x1920x1080
+[19:03.28.105]  - User name: krish
+[19:03.28.105]  - Computer name: LAPTOP-G5NNCVN3
+[19:03.28.105]  
+[19:03.28.105]  
+[19:03.28.105]  ####                            WARNING                            ####
+[19:03.28.105]  Windows system locale (1033) is different from
+[19:03.28.105]  the current MobaXterm process locale (16393).
+[19:03.28.105]  MobaXterm has switched to the system locale in order to avoid potential
+[19:03.28.105]  issues with Ansi/unicode/UTF-8 conversions.
+[19:03.28.105]  
+[19:03.28.105]  
+[19:03.28.105]  - Windows beta unicode support not set
+[19:03.28.105]  - Uptime: 23 days, 07:52:12
+[19:03.28.105]  - Windows PATH: C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Users\krish\AppData\Local\Microsoft\WindowsApps;
+[19:03.28.105]  - WSL PATH: C:\windows\Sysnative\wsl.exe
+[19:03.28.105]  
+[19:03.28.105]  BEGIN Form1.FormCreate
+[19:03.28.105]      Detecting installed/portable version
+[19:03.28.105]      --> portable version
+[19:03.28.105]      
+[19:03.28.105]      Detecting IniSettings
+[19:03.28.105]      An existing INI file has been detected in "C:\Users\krish\AppData\Roaming\MobaXterm\MobaXterm.ini".
+[19:03.28.105]      MobaXterm will use this path for INI file.
+[19:03.28.105]      MobaXterm will take its configuration from file "C:\Users\krish\AppData\Roaming\MobaXterm\MobaXterm.ini".
+[19:03.28.106]      (selected ini file seems to be writeable)
+[19:03.28.106]      --> IniSettings= C:\Users\krish\AppData\Roaming\MobaXterm\MobaXterm.ini
+[19:03.28.106]      
+[19:03.28.106]      
+[19:03.28.106]      We are using the "New" SSH engine
+[19:03.28.106]      
+[19:03.28.106]      
+[19:03.28.106]      Detecting ModeIni
+[19:03.28.106]      --> ModeIni= false
+[19:03.28.106]      
+[19:03.28.106]      Detecting CygUtils
+[19:03.28.106]      CygUtils32 detected
+[19:03.28.106]      --> Using CygPackage C:\Users\krish\OneDrive\DOCUME~1\OneDrive\Desktop\MOBAXT~1.2\CygUtils.plugin
+[19:03.28.106]      
+[19:03.28.106]      Starting CygUtils package thread
+[19:03.28.106]      BEGIN GetCygUtilsPackageZip
+[19:03.28.106]      END GetCygUtilsPackageZip
+[19:03.28.106]      
+[19:03.28.106]      Detecting MobaXVTDir
+[19:03.28.106]      IniSlashDir:=C:\Users\krish\AppData\Roaming\MobaXterm\slash
+[19:03.28.106]      BEGIN IsFolderRW(C:\Users\krish\AppData\Roaming\MobaXterm\slash)
+[19:03.28.126]      END IsFolderRW(C:\Users\krish\AppData\Roaming\MobaXterm\slash) --> OK
+[19:03.28.127]      --> MobaXVTDir= C:\Users\krish\AppData\Roaming\MobaXterm\slash
+[19:03.28.127]      
+[19:03.28.127]      Detecting BinExeDir
+[19:03.28.127]      --> BinExeDir= C:\Users\krish\AppData\Roaming\MobaXterm\slash\bin\
+[19:03.28.127]      
+[19:03.28.127]      Detecting MobaXVTHomeDir
+[19:03.28.127]      BEGIN IsFolderRW(C:\Users\krish\AppData\Roaming\MobaXterm\home)
+[19:03.28.127]      END IsFolderRW(C:\Users\krish\AppData\Roaming\MobaXterm\home) --> OK
+[19:03.28.127]      --> MobaXVTHomeDir= C:\Users\krish\AppData\Roaming\MobaXterm\home
+[19:03.28.127]      
+[19:03.28.127]      Skin detection
+[19:03.28.127]      Skin selected: Windows bright theme
+[19:03.28.127]      Set Application Title
+[19:03.28.128]      Create SSH memory storage
+[19:03.28.128]      Clean custom shared sessions
+[19:03.28.128]      Adapting splash screen color to logo
+[19:03.28.128]      Detecting if another instance is running...
+[19:03.28.128]      No other instance is running. Cleaning potential files from any previous instance...
+[19:03.28.152]      Cleaning done.
+[19:03.28.152]      Detecting installed WSL and other bash-based distributions
+[19:03.28.152]      
+[19:03.28.152]      BEGIN ListWslDistrosFromRegistry(HKCU)
+[19:03.28.152]      END ListWslDistrosFromRegistry(HKCU)
+[19:03.28.152]      
+[19:03.28.152]      
+[19:03.28.152]      BEGIN ListWslDistrosFromRegistry(HKLM)
+[19:03.28.152]      END ListWslDistrosFromRegistry(HKLM)
+[19:03.28.152]      
+[19:03.28.152]      Loading skins
+[19:03.28.152]      
+[19:03.28.152]      Detected MobaXterm bright theme setting
+[19:03.28.152]      
+[19:03.28.152]  END Form1.Create
+[19:03.28.152]  
+[19:03.28.152]  
+[19:03.28.152]  CREATING Form4
+[19:03.28.227]  BEGIN Form4.Create
+[19:03.28.227]      BEGIN WaitForLoadFlatIconsThreads
+[19:03.28.241]          
+[19:03.28.241]          BEGIN Form4.FormActivate
+[19:03.28.241]              Form4.FormActivate0: First time window activation
+[19:03.28.242]              Form4.FormActivate1
+[19:03.28.243]              Form4.FormActivate2
+[19:03.28.243]              Form4.FormActivate3
+[19:03.28.245]              Form4.FormActivate4
+[19:03.28.245]              Form4.FormActivate5
+[19:03.28.246]              Form4.FormActivate6
+[19:03.28.246]              Registering global show/hide hotkey
+[19:03.28.246]              Registering global show/hide popup terminal
+[19:03.28.246]              BEGIN LoadParamsFromIni: C:\Users\krish\AppData\Roaming\MobaXterm\MobaXterm.ini
+[19:03.28.246]                  !!!! Exception EAccessViolation: Access violation at address 008EB13A in module 'MobaXterm_Personal_23.2.exe'. Write of address 000005E9 during Form4Activate1
+[19:03.28.247]                  !!!! Exception EAccessViolation: Access violation at address 009693A6 in module 'MobaXterm_Personal_23.2.exe'. Read of address 000003A8 during Form4Activate2
+[19:03.28.247]                  ChDir(Form1.BaseDir): C:\Users\krish\AppData\Roaming\
+[19:03.28.247]                  FirstParam:
+[19:03.28.247]                  Launching NewTab
+[19:03.28.247]                  
+[19:03.28.247]                  BEGIN NEWTAB(home, 135, 0)
+[19:03.28.247]                  END NEWTAB(home, 135, 0)
+[19:03.28.247]                  
+[19:03.28.247]                  !!!! Exception EAccessViolation: Access violation at address 0095280B in module 'MobaXterm_Personal_23.2.exe'. Read of address 0000045C during Form4Activate4
+[19:03.28.247]                  
+[19:03.28.247]                  
+[19:03.28.247]                  
+[19:03.28.247]                  +---------------------------------+
+[19:03.28.247]                  | Main window activation: 68608247ms |
+[19:03.28.247]                  +---------------------------------+
+[19:03.28.247]                  
+[19:03.28.247]                  
+[19:03.28.247]                  
+[19:03.28.247]                  Launching bookmarks();
+[19:03.28.247]              END Form4.FormActivate
+[19:03.28.247]              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                 Windows Event Viewer: "Application"                | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Info    | 2023-10-13 13:31:37 | VSS |     |    ?
+Info    | 2023-10-13 13:29:42 | Software Protection Platform Service |     |    2123-09-19T13:29:42Z    |    RulesEngine
+Info    | 2023-10-13 13:29:11 | Software Protection Platform Service | 
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:41 | MsiInstaller |     |    MobaXterm    |    23.2.0.5082    |    1033    |    0    |    Mobatek    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:41 | MsiInstaller |     |    Product: MobaXterm -- Configuration completed successfully.    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+Info    | 2023-10-13 13:28:39 | Microsoft-Windows-RestartManager |     |    0    |    2023-10-13T13:28:39.4136240Z
+Info    | 2023-10-13 13:28:39 | Microsoft-Windows-RestartManager |     |    0    |    2023-10-13T13:28:39.4136240Z
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:39 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Tempa869562e-4636-49db-9c3d-73da786bf652_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    15172    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:37 | System Restore |     |    C:\windows\system32\msiexec.exe /V    |    Installed MobaXterm
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:37 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Tempa869562e-4636-49db-9c3d-73da786bf652_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    15172    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:24 | MsiInstaller |     |    MobaXterm    |    23.2.0.5082    |    1033    |    1602    |    Mobatek    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:24 | MsiInstaller |     |    Product: MobaXterm -- Installation failed.    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:22 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Tempf085e93f-cd48-4af2-9282-a558b33c6e0f_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    12548    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:14 | System Restore |     |    C:\windows\system32\msiexec.exe /V    |    Installed MobaXterm
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:28:14 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Tempf085e93f-cd48-4af2-9282-a558b33c6e0f_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    12548    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:27:54 | MsiInstaller |     |    MobaXterm    |    23.2.0.5082    |    1033    |    0    |    Mobatek    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:27:54 | MsiInstaller |     |    Product: MobaXterm -- Configuration completed successfully.    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+Info    | 2023-10-13 13:27:51 | Microsoft-Windows-RestartManager |     |    0    |    2023-10-13T13:27:47.6247323Z
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:27:51 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Temp7b1d2466-a80a-4616-ae66-b2d4abad0939_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    12844    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+Info    | 2023-10-13 13:27:47 | Microsoft-Windows-RestartManager |     |    0    |    2023-10-13T13:27:47.6247323Z
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:27:45 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Temp7b1d2466-a80a-4616-ae66-b2d4abad0939_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    12844    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:56 | MsiInstaller |     |    MobaXterm    |    23.2.0.5082    |    1033    |    0    |    Mobatek    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:56 | MsiInstaller |     |    Product: MobaXterm -- Installation completed successfully.    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+Info    | 2023-10-13 13:26:54 | Microsoft-Windows-RestartManager |     |    0    |    2023-10-13T13:26:46.3572220Z
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:54 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Temp2b78277e-c408-49e1-9b7d-097864d7fdda_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    21972    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Error   | 2023-10-13 13:26:51 | MsiInstaller |     |    Product: MobaXterm -- Error 1308. Source file not found: C:\Users\krish\AppData\Local\Temp\Temp2b78277e-c408-49e1-9b7d-097864d7fdda_MobaXterm_Installer_v23.2.zip\MobaXterm_installer.dat. Verify that the file exists and that you can access it.    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+Info    | 2023-10-13 13:26:46 | Microsoft-Windows-RestartManager |     |    0    |    2023-10-13T13:26:46.3572220Z
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:43 | System Restore |     |    C:\windows\system32\msiexec.exe /V    |    Installed MobaXterm
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:43 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Temp2b78277e-c408-49e1-9b7d-097864d7fdda_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    21972    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:29 | MsiInstaller |     |    MobaXterm    |    23.2.0.5082    |    1033    |    1602    |    Mobatek    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:29 | MsiInstaller |     |    Product: MobaXterm -- Installation failed.    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:26:25 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Temp1f4a5034-d651-4528-9f4f-abe6f784b82a_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    23176    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+Info    | 2023-10-13 13:26:09 | Microsoft-Windows-System-Restore |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy8    |    0x0    |    64445    |    197620    |    38686    |    14772    |    42065    |    5
+Info    | 2023-10-13 13:26:09 | Microsoft-Windows-System-Restore |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy8    |    0x0    |    64445    |    197620    |    38686    |    14772    |    42065    |    5
+Info    | 2023-10-13 13:26:02 | Microsoft-Windows-System-Restore |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy8
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:25:59 | MsiInstaller |     |    MobaXterm    |    23.2.0.5082    |    1033    |    1602    |    Mobatek    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:25:59 | MsiInstaller |     |    Product: MobaXterm -- Installation failed.    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:25:51 | System Restore |     |    C:\windows\system32\msiexec.exe /V    |    Installed MobaXterm
+[MOBAXTERM-RELATED]  Info    | 2023-10-13 13:25:37 | MsiInstaller |     |    C:\Users\krish\AppData\Local\Temp\Temp1f4a5034-d651-4528-9f4f-abe6f784b82a_MobaXterm_Installer_v23.2.zip\MobaXterm_installer_23.2.msi    |    23176    |    (NULL)    |    (NULL)    |    (NULL)    |    (NULL)    |    ?
+Info    | 2023-10-13 13:24:17 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed User unlock
+Info    | 2023-10-13 13:24:10 | nssm |     |    ExpressVPNService    |    POWEREVENT
+Info    | 2023-10-13 13:24:10 | HP Comm Recovery |     |    PowerEvent handled successfully by the service.
+Info    | 2023-10-13 13:24:10 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2023-10-13 13:24:09 | nssm |     |    ExpressVPNService    |    POWEREVENT
+Info    | 2023-10-13 13:24:09 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2023-10-13 13:24:09 | HP Comm Recovery |     |    PowerEvent handled successfully by the service.
+Info    | 2023-10-13 13:24:08 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed User lock
+Info    | 2023-10-13 13:24:08 | SynTPEnhService |     |    SynTPEnhService    |    Log on New Session:31 Launch Enh
+Info    | 2023-10-13 13:24:07 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed User Log on
+Info    | 2023-10-13 13:24:03 | igfxCUIService2.0.0.0 |     |    Received Post Shell Event 31
+
+Info    | 2023-10-13 13:24:03 | igfxCUIService2.0.0.0 |     |    Logon: 31
+
+Info    | 2023-10-13 13:24:03 | igfxCUIService2.0.0.0 |     |    Log on event received User1
+
+Info    | 2023-10-13 13:24:03 | HP Comm Recovery |     |    Resume from Connected Standby
+Info    | 2023-10-13 13:24:03 | Wlclntfy |     |    SessionEnv
+Info    | 2023-10-13 13:24:03 | Wlclntfy |     |    SessionEnv
+Info    | 2023-10-13 13:24:03 | SynTPEnhService |     |    SynTPEnhService    |    SessionId:30 no longer exist remove it
+
+Info    | 2023-10-13 13:09:01 | nssm |     |    ExpressVPNService    |    POWEREVENT
+Info    | 2023-10-13 13:09:01 | HP Comm Recovery |     |    PowerEvent handled successfully by the service.
+Info    | 2023-10-13 13:09:01 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2023-10-13 13:09:01 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed: Console connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                   Windows Event Viewer: "System"                   | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Info    | 2023-10-13 13:27:39 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2023-10-13 13:25:51 | Microsoft-Windows-Ntfs |     |    Windows    |    \Device\HarddiskVolumeShadowCopy8    |    0
+Warning | 2023-10-13 13:24:27 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    LAPTOP-G5NNCVN3    |    krish    |    S-1-5-21-3624306480-3835812372-772822298-1001    |    LocalHost (Using LRPC)    |    SpotifyAB.SpotifyMusic_1.194.874.0_x86__zpdnekdrzrea0    |    Unavailable
+Info    | 2023-10-13 13:24:22 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0    |    NULL
+Info    | 2023-10-13 13:24:22 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0
+Info    | 2023-10-13 13:24:17 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0    |    NULL
+Info    | 2023-10-13 13:24:10 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Info    | 2023-10-13 13:24:04 | Microsoft-Windows-Power-Troubleshooter |     |    2023-10-13T13:09:01.0504681Z    |    2023-10-13T13:24:02.9530524Z    |    1028    |    453    |    444    |    3121    |    3097    |    3038    |    340556    |    1979728129    |    6    |    5    |    0    |    0    |    ?    |    0    |    0    |    0    |    ?    |    ?    |    39
+Info    | 2023-10-13 13:24:03 | Microsoft-Windows-Winlogon |     |    31    |    S-1-5-21-3624306480-3835812372-772822298-1001
+Info    | 2023-10-13 13:24:03 | Intel-SST-OED |     |    Loaded DSP FW library    |    Libs\dsp_lib_whm_tgl_release.bin    |    0
+Info    | 2023-10-13 13:24:03 | Intel-SST-OED |     |    Loaded DSP FW library    |    Libs\dsp_lib_whm_tgl_release.bin    |    0
+Info    | 2023-10-13 13:24:02 | Intel-SST-OED |     |    Loaded DSP FW library    |    Libs\dsp_lib_intel_wov_tgl_release.bin    |    0
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-Power |     |    50    |    25    |    230    |    1    |    30385    |    13531    |    42408    |    13531    |    42408    |    232    |    0    |    false    |    25
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-Power |     |    0    |    38534    |    0    |    0    |    0    |    38534    |    0    |    103    |    false    |    25    |    0    |    0    |    false    |    0    |    0    |    true    |    true    |    0    |    7    |    0    |    true    |    false    |    232    |    false    |    13531    |    42408    |    230    |    50    |    0    |    38534    |    0    |    0    |    0    |    0    |    12859    |    false    |    13531    |    13531    |    30385    |    0    |    0    |    0    |    42408    |    42408    |    0    |    0    |    4    |    0
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-Power |     |    20    |    true    |    false    |    230    |    13531    |    42408    |    230    |    50
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-Power |     |    50    |    20    |    229    |    3    |    901884583    |    13600    |    42408    |    13531    |    42408    |    230    |    1    |    false    |    20
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-Boot |     |    0
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-Boot |     |    1
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-Boot |     |    357    |    3049    |    3108    |    4383    |    4383
+Info    | 2023-10-13 13:24:02 | Microsoft-Windows-Kernel-General |     |    2023-10-13T13:24:02.5000000Z    |    2023-10-13T13:09:02.4018867Z    |    900098    |    2    |    ?    |    4    |    2023-10-13T18:54:02.5000000Z    |    -330    |    false    |    false
+Info    | 2023-10-13 13:09:02 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    5    |    1601-01-01T00:00:00.0000000Z    |    1601-01-01T00:00:00.0000000Z    |    0    |    0
+Info    | 2023-10-13 13:09:01 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    4    |    0    |    95
+Info    | 2023-10-13 13:09:01 | Microsoft-Windows-Kernel-Power |     |    50    |    33    |    228    |    0    |    6753540942    |    25684    |    42408    |    13600    |    42408    |    229    |    3    |    false    |    33
+Info    | 2023-10-13 13:09:01 | Microsoft-Windows-Kernel-Power |     |    53    |    \Device\HarddiskVolume3\Windows\System32\winlogon.exe    |    3    |    2
+Info    | 2023-10-13 13:09:00 | Win32k |     |    ?
+Info    | 2023-10-13 13:09:00 | Microsoft-Windows-Winlogon |     |    30    |    S-1-5-21-3624306480-3835812372-772822298-1001
+Info    | 2023-10-13 13:08:58 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0
+Info    | 2023-10-13 13:02:30 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2023-10-13 12:59:44 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Info    | 2023-10-13 12:58:41 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0    |    NULL
+Info    | 2023-10-13 12:58:40 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0
+Info    | 2023-10-13 12:58:20 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0    |    NULL
+Info    | 2023-10-13 12:58:20 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0
+Info    | 2023-10-13 12:34:49 | volsnap |     |    \Device\HarddiskVolumeShadowCopy4    |    C:    |    00000000    |    178    |    0x0001    |    6400
+Info    | 2023-10-13 11:16:27 | Microsoft-Windows-Kernel-Power |     |    50    |    33    |    227    |    2    |    3160134    |    25684    |    42408    |    25684    |    42408    |    228    |    0    |    false    |    33
+Info    | 2023-10-13 11:16:27 | Microsoft-Windows-Kernel-Power |     |    2869    |    28854025    |    0    |    0    |    0    |    28854025    |    0    |    103    |    false    |    33    |    0    |    0    |    false    |    0    |    292587    |    true    |    true    |    0    |    7    |    0    |    true    |    false    |    228    |    false    |    25684    |    42408    |    226    |    50    |    0    |    28854025    |    0    |    0    |    0    |    0    |    277097    |    true    |    25707    |    25684    |    25708322    |    25684    |    25684    |    3160134    |    42408    |    42408    |    42408    |    42408    |    4    |    0
+Info    | 2023-10-13 11:16:24 | Microsoft-Windows-Kernel-Power |     |    50    |    12    |    226    |    1    |    25708322    |    25707    |    42408    |    25684    |    42408    |    227    |    2    |    false    |    12
+Info    | 2023-10-13 11:15:58 | Microsoft-Windows-Kernel-Power |     |    12    |    true    |    false    |    226    |    25707    |    42408    |    226    |    50
+Info    | 2023-10-13 11:15:58 | Microsoft-Windows-Kernel-Power |     |    50    |    12    |    225    |    0    |    1235293113    |    27337    |    42408    |    25707    |    42408    |    226    |    1    |    false    |    12
+Info    | 2023-10-13 10:55:23 | Microsoft-Windows-Kernel-Power |     |    50    |    33    |    224    |    2    |    28996452    |    27337    |    42408    |    27337    |    42408    |    225    |    0    |    false    |    33
+Info    | 2023-10-13 10:55:23 | Microsoft-Windows-Kernel-Power |     |    827    |    27384598    |    213019378    |    26795482    |    20463911    |    47848509    |    10    |    103    |    false    |    33    |    0    |    192091    |    false    |    20393314    |    353517    |    true    |    true    |    149881    |    7    |    0    |    true    |    false    |    225    |    false    |    27337    |    42408    |    223    |    50    |    0    |    18446744073523475958    |    20463911    |    20393314    |    0    |    0    |    233294    |    true    |    27348    |    27337    |    18864388    |    27337    |    27337    |    28996452    |    42408    |    42408    |    42408    |    42408    |    4    |    0
+Info    | 2023-10-13 10:55:23 | Microsoft-Windows-Kernel-Power |     |    0    |    0
+Info    | 2023-10-13 10:55:02 | Microsoft-Windows-Kernel-Power |     |    2    |    7
+Info    | 2023-10-13 10:54:54 | Microsoft-Windows-Kernel-Power |     |    50    |    12    |    223    |    1    |    18864388    |    27348    |    42408    |    27337    |    42408    |    224    |    2    |    false    |    12
+Info    | 2023-10-13 10:54:35 | Microsoft-Windows-Kernel-Power |     |    12    |    true    |    false    |    223    |    27348    |    42408    |    223    |    50
+Info    | 2023-10-13 10:54:35 | Microsoft-Windows-Kernel-Power |     |    50    |    12    |    222    |    0    |    3328042095    |    31931    |    42408    |    27348    |    42408    |    223    |    1    |    false    |    12
+Info    | 2023-10-13 10:24:51 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2023-10-13 10:22:35 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Info    | 2023-10-13 10:21:37 | Microsoft-Windows-Kernel-General |     |    108    |    \??\C:\Users\krish\AppData\Local\Packages\Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe\Settings\settings.dat    |    1    |    1
+Info    | 2023-10-13 10:21:34 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0    |    NULL
+Info    | 2023-10-13 10:21:34 | Microsoft-Windows-IsolatedUserMode |     |    0    |    0    |    0
+Info    | 2023-10-13 09:59:07 | Microsoft-Windows-Kernel-Power |     |    50    |    33    |    221    |    2    |    193020920    |    31954    |    42408    |    31931    |    42408    |    222    |    0    |    false    |    33
+Info    | 2023-10-13 09:59:07 | Microsoft-Windows-Kernel-Power |     |    579    |    26724857    |    1688967614    |    26056977    |    184379584    |    211104441    |    7    |    103    |    false    |    33    |    0    |    232789    |    false    |    184174454    |    380930    |    true    |    true    |    94309    |    7    |    0    |    true    |    false    |    222    |    false    |    31931    |    42408    |    220    |    50    |    0    |    18446744072046842529    |    184379584    |    184174454    |    0    |    0    |    233585    |    true    |    31965    |    31954    |    18101384    |    31954    |    31931    |    193020920    |    42408    |    42408    |    42408    |    42408    |    4    |    0
+Info    | 2023-10-13 09:59:07 | Microsoft-Windows-Kernel-Power |     |    0    |    0
+Info    | 2023-10-13 09:56:02 | Microsoft-Windows-Kernel-Power |     |    2    |    7
+Info    | 2023-10-13 09:55:54 | Microsoft-Windows-Kernel-Power |     |    50    |    12    |    220    |    1    |    18101384    |    31965    |    42408    |    31954    |    42408    |    221    |    2    |    false    |    12
+Info    | 2023-10-13 09:55:36 | Microsoft-Windows-Kernel-Power |     |    12    |    true    |    false    |    220    |    31965    |    42408    |    220    |    50
+Info    | 2023-10-13 09:55:36 | Microsoft-Windows-Kernel-Power |     |    50    |    12    |    219    |    0    |    2079365214    |    36822    |    42408    |    31965    |    42408    |    220    |    1    |    false    |    12
+Info    | 2023-10-13 09:38:09 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2023-10-13 09:25:03 | Service Control Manager |     |    MpKslc5bc8253    |    C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{FE07813D-2B5B-4D52-9613-4BD92F4FBEE1}\MpKslDrv.sys    |    kernel mode driver    |    demand start    |    ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[19:03.28.251]              !!!! EXCEPTION EAccessViolation:  Access violation at address 00969E2C in module 'MobaXterm_Personal_23.2.exe'. Read of address 00000300
+[19:03.28.251]              - Form4.Indice: 0
+[19:03.28.251]              - Form4.TabMax: 0
+[19:03.28.251]              - Form4.Cts1.ActiveTabIndex: -1
+[19:03.28.251]              - Form4.Cts1.Tabs.Count: 0
